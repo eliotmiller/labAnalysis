@@ -1,0 +1,13 @@
+Package: labAnalysis
+Title: Utility functions for UMSL Plant Biology
+Description: Small package intended to collect various utility functions for an
+    UMSL plant biology course I am teaching
+Version: 0.1
+Authors@R: 'Eliot Miller <eliot.isaac@gmail.com> [aut, cre]'
+Depends:
+    R (>= 3.0.1)
+License: GPL-3
+LazyData: true
+Collate:
+    'lengthNonZeros.R'
+    'readIn.R'
